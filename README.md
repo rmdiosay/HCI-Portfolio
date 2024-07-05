@@ -1,16 +1,10 @@
-<h1 align="center">
-  <img src="Assets/App-Logo_EcoBridge.png" width="100" alt="EcoBridge App Logo"><br>
-  EcoBridge Document Portfolio
-</h1>
-
 <p align="center">
-  Welcome to the EcoBridge Document Portfolio repository! This repository contains comprehensive documentation and resources for the EcoBridge agriculture app prototype.
+  Welcome to my HCI Portfolio repository! This repository contains comprehensive documentation and resources for the app prototype that me and my team from AnimaUX developed.
 </p>
 
 <h2 align="center">Contents</h2>
 
 - **Assets:** Contains assets used for this repository.<br>
-- **Coursera Certificates:** Certificates of the team members.<br>
 - **User Manual:** Guide to navigating and maximizing the features of our app prototype.<br>
 - **Part 1:** Initial phase documents.<br>
 - **Part 2:** Second phase documents.<br>
